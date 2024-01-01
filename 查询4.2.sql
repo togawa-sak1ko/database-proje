@@ -1,0 +1,1 @@
+select avg(居民.年龄) as 平均年龄 from 居民

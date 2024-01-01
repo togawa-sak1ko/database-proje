@@ -1,0 +1,1 @@
+ALTER TABLE 居民  WITH CHECK ADD  CONSTRAINT CK_居民 CHECK  ((性别='男' OR 性别='女'))

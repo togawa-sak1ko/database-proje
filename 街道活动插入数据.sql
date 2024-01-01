@@ -1,0 +1,10 @@
+insert into 街道活动(街道编号,活动编号) values ('01','01');
+insert into 街道活动(街道编号,活动编号) values ('02','02');
+insert into 街道活动(街道编号,活动编号) values ('03','03');
+insert into 街道活动(街道编号,活动编号) values ('04','04');
+insert into 街道活动(街道编号,活动编号) values ('05','05');
+insert into 街道活动(街道编号,活动编号) values ('06','06');
+insert into 街道活动(街道编号,活动编号) values ('07','07');
+insert into 街道活动(街道编号,活动编号) values ('08','08');
+insert into 街道活动(街道编号,活动编号) values ('09','09');
+insert into 街道活动(街道编号,活动编号) values ('10','10');

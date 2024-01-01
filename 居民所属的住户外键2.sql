@@ -1,0 +1,4 @@
+ALTER TABLE 居民所属的住户  ADD CONSTRAINT FK_居民所属的住户_住户 FOREIGN KEY(属于住户,属于小区,属于楼号)
+REFERENCES 住户 (门牌号,属于小区,属于楼号)
+ON UPDATE CASCADE
+ON DELETE CASCADE

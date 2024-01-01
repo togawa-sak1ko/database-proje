@@ -1,0 +1,1 @@
+select * from 活动 where (year(活动.日期) = 2023)

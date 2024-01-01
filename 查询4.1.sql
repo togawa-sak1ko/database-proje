@@ -1,0 +1,1 @@
+select sum(住户.面积) as 住户平均面积 from 住户

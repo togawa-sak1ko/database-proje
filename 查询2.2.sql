@@ -1,0 +1,1 @@
+select * from 居民 where (居民.性别) = '男'

@@ -1,0 +1,10 @@
+insert into 小区活动(小区名,活动编号) values ('一区','01');
+insert into 小区活动(小区名,活动编号) values ('二区','02');
+insert into 小区活动(小区名,活动编号) values ('三区','03');
+insert into 小区活动(小区名,活动编号) values ('四区','04');
+insert into 小区活动(小区名,活动编号) values ('五区','05');
+insert into 小区活动(小区名,活动编号) values ('六区','06');
+insert into 小区活动(小区名,活动编号) values ('七区','07');
+insert into 小区活动(小区名,活动编号) values ('八区','08');
+insert into 小区活动(小区名,活动编号) values ('九区','09');
+insert into 小区活动(小区名,活动编号) values ('十区','10');

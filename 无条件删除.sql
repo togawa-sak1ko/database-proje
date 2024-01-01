@@ -1,0 +1,1 @@
+delete from 游戏开发商
